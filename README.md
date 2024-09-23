@@ -27,7 +27,7 @@
 - [Course Python made in PHP](https://github.com/raphaellyzzz/projeto-curso-py)
 
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
 </p>
 
 ## 🔥 Skills
