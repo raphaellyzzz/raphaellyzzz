@@ -6,7 +6,7 @@
 <p>
   I'm a Student of Analysis and Development of Systems by IFPE and a lover of hardware, computer architecture and robotics.
 
-  - 🌱 I’m studying Development Back-end, Robotics, CyberOps at Cisco and Computer Science at Harvard
+  - 🌱 I’m studying Development Back-end, Machine learning, CyberOps at Cisco and Computer Science at Harvard
 
   - 🔭 I am looking for my first job opportunity. I want to work with Security or Development.
 </p>
