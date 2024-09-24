@@ -16,7 +16,7 @@
 
   - 💬 I'm 19 years old, currently living in Brazil. I have fluency in English and study Python, PHP, Java, C, C# and MySQL.
 
-  - ⚡ In a free time I read book's and work in my personal project: my plataform game! I like to made things in Arduino's like a hobbie, one of the projects that i made is one oscilloscope and I'm studying to made a eletric guitar to play Guitar Hero. \o/
+  - ⚡ In a free time I read book's and work in my personal project: my plataform game! I like to made things in Arduino's like a hobbie, one of the projects that i made is one oscilloscope and I'm studying to made a eletric guitar to play Guitar Hero.
 </details>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariannyraphaelly/)
