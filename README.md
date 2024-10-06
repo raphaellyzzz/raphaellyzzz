@@ -4,7 +4,7 @@
 </div>
 
 <p>
-  I'm a Student of Analysis and Development of Systems by IFPE and a lover of hardware, computer architecture and robotics.
+  I'm a Student of Analysis and Development of Systems by IFPE and a lover of hardware and robotics.
 
   - 🌱 I’m studying Development Back-end, Machine learning, CyberOps at Cisco and Computer Science at Harvard
 
@@ -16,7 +16,6 @@
 
   - 💬 I'm 19 years old, currently living in Brazil. I have fluency in English and study Python, PHP, Java, C, C# and MySQL.
 
-  - ⚡ In a free time I read book's and work in my personal project: my plataform game! I like to made things in Arduino's like a hobbie, one of the projects that i made is one oscilloscope and I'm studying to made a eletric guitar to play Guitar Hero.
 </details>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariannyraphaelly/)
