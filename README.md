@@ -4,7 +4,7 @@
 </div>
 
 <p>
-  I'm a Student of Analysis and Development of Systems by IFPE and a lover of hardware and robotics.
+  I'm a Student of Systems analysis and development by Federal Institute of Pernambuco (IFPE) and a lover of hardware and robotics.
 
   - 🌱 I’m studying Development Back-end, Machine learning, CyberOps at Cisco and Computer Science at Harvard
 
