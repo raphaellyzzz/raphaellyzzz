@@ -4,17 +4,15 @@
 </div>
 
 <p>
-  I'm a Student of Systems analysis and development by Federal Institute of Pernambuco (IFPE) and a lover of hardware and robotics.
+  Eu sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPE.
 
-  - 🌱 I’m studying Development Back-end, Machine learning, CyberOps at Cisco and Computer Science at Harvard
-
-  - 🔭 I am looking for my first job opportunity. I want to work with Security or Development.
+  - 🔭 Estou procurando pela minha primeira oportunidade de trabalho!
 </p>
 
 <details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I'm 19 years old, currently living in Brazil. I have fluency in English and study Python, PHP, Java, C, C# and MySQL.
+  <summary>👨‍💻 Mais sobre mim</summary>
+  
+  - 💬 Tenho 20 anos, ultimamente vivo no Brasil. Tenho fluência em inglês e venho estudando as linguagens Python, PHP, Java, C, C# e MySQL.
 
 </details>
 
