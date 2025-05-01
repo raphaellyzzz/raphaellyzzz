@@ -16,9 +16,15 @@
 
 </details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariannyraphaelly/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellyzzz)](https://github.com/anuraghazra/github-readme-stats)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellyzzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellyzzz&show_icons=true&theme=jolly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariannyraphaelly/)
 
 ## Portfolio:
 - [Course Python made in PHP](https://github.com/raphaellyzzz/projeto-curso-py)
