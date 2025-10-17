@@ -16,14 +16,10 @@
 
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaellyzzz)](https://github.com/anuraghazra/github-readme-stats)
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellyzzz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<div align="center">  
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphaellyzzz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellyzzz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariannyraphaelly/)
 
