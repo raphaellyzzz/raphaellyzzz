@@ -1,8 +1,4 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/ariannyraphaelly/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="README.md">
     <img src="https://img.shields.io/badge/Portugu%C3%AAs-009c3b?style=for-the-badge&logoColor=white" alt="Versão em Português"/>
   </a>
