@@ -14,6 +14,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Bem-vindo(a) ao meu perfil!</h1></summary>
+  </ul>
 </div>
     
 ## 🔭 Sobre mim
@@ -23,8 +24,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em construção
 - 🎓 <strong>Educação:</strong> Graduanda em Análise e Desenvolvimento de Sistemas (5/6) e com formação Técnica em Desenvolvimento de Sistemas.
 - 🏫 <strong>Pesquisa e Extensão:</strong> Pesquisadora focada em visão computacional aplicada à saúde (modelos de Deep Learning para triagem citológica automatizada) e extensionista em um projeto de ensino de desenvolvimento de jogos.
 - 💻 <strong>Prática:</strong> Desenvolvedora de projetos acadêmicos e práticos com foco em back-end e aplicações web.
-- 🧩 <strong>Foco e Interesses:</strong> Inteligência Artificial na área da saúde, GameDev, Desenvolvimento Back-End e criação de interfaces.
-
+- 🧩 <strong>Foco e Interesses:</strong> Inteligência Artificial na área da saúde, GameDev, Desenvolvimento Back-End e Ciência de Dados.
 
 <div align="center">  
   <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphaellyzzz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
@@ -32,7 +32,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em construção
 </div>
 
 ## 🔥 Skills
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;" align="center">
 
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
@@ -92,6 +92,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em construção
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" title="Spring Boot"/>
   </div>
+</div>
 
 ## Portfolio:
 - [Course Python made in PHP](https://github.com/raphaellyzzz/projeto-curso-py)
@@ -99,5 +100,3 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em construção
 <p align="center">
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="gif katana zero" width="80%">
 </p>
-
-</div>
