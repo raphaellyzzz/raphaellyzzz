@@ -91,7 +91,7 @@ I am a Systems Analysis and Development student focusing on building Artificial 
 </div>
 
 ## Portfolio:
-- [Course Python made in PHP](https://github.com/raphaellyzzz/projeto-curso-py)
+- [Textual Similarity Checker in Python with MinHashing](https://github.com/raphaellyzzz/HashSimPy)
 
 <p align="center">
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="gif katana zero" width="90%">
