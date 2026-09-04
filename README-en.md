@@ -23,8 +23,8 @@ I am a Systems Analysis and Development student focusing on building Artificial 
 - 🧩 <strong>Focus & Interests:</strong> Artificial Intelligence in healthcare, GameDev, Back-End Development and Data Science.
 
 <div align="center">  
-  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=raphaellyzzz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
-  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaellyzzz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api?username=ariwired&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="auto" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariwired&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ## 🔥 Skills
@@ -91,8 +91,8 @@ I am a Systems Analysis and Development student focusing on building Artificial 
 </div>
 
 ## Portfolio:
-- [Full-Stack Predictive Monitoring System](https://github.com/raphaellyzzz/iomt-telemed-esp32)
-- [Textual Similarity Checker in Python with MinHashing](https://github.com/raphaellyzzz/HashSimPy)
+- [Full-Stack Predictive Monitoring System](https://github.com/ariwired/iomt-telemed-esp32)
+- [Textual Similarity Checker in Python with MinHashing](https://github.com/ariwired/HashSimPy)
 
 <p align="center">
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/790858329433082572/7AFB90944739524B66E931AC5ED409ED84BA09B6/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="gif katana zero" width="90%">
